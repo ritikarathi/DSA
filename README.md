@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
