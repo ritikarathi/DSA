@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
 ## Recursion
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
