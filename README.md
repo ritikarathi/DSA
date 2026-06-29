@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ritikarathi/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
