@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ritikarathi/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
