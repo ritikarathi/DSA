@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ritikarathi/DSA/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ritikarathi/DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ritikarathi/DSA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ritikarathi/DSA/tree/master/0173-binary-search-tree-iterator) |
 ## Array
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritikarathi/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritikarathi/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
