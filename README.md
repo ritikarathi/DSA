@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
+| [1544-make-the-string-great](https://github.com/ritikarathi/DSA/tree/master/1544-make-the-string-great) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ritikarathi/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ritikarathi/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1544-make-the-string-great](https://github.com/ritikarathi/DSA/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
