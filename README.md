@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [1544-make-the-string-great](https://github.com/ritikarathi/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ritikarathi/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Binary Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1544-make-the-string-great](https://github.com/ritikarathi/DSA/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
