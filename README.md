@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ritikarathi/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2211-count-collisions-on-a-road](https://github.com/ritikarathi/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ritikarathi/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/ritikarathi/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ritikarathi/DSA/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
