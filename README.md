@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/ritikarathi/DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
@@ -145,8 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ritikarathi/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ritikarathi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/ritikarathi/DSA/tree/master/0070-climbing-stairs) |
+| [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ritikarathi/DSA/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
