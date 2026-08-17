@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/ritikarathi/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ritikarathi/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -202,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/0098-validate-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
