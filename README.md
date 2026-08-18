@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikarathi/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
+| [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ritikarathi/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 | [0739-daily-temperatures](https://github.com/ritikarathi/DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
@@ -147,12 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
