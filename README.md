@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ritikarathi/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Math
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Simulation
 |  |
 | ------- |
