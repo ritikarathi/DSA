@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikarathi/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/ritikarathi/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ritikarathi/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ritikarathi/DSA/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikarathi/DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/ritikarathi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ritikarathi/DSA/tree/master/0045-jump-game-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikarathi/DSA/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
