@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ritikarathi/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/ritikarathi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [1544-make-the-string-great](https://github.com/ritikarathi/DSA/tree/master/1544-make-the-string-great) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ritikarathi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ritikarathi/DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ritikarathi/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ritikarathi/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
