@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ritikarathi/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/ritikarathi/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ritikarathi/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/ritikarathi/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Iterator
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ritikarathi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ritikarathi/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Doubly-Linked List
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Minimax
