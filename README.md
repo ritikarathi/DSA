@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikarathi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritikarathi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
