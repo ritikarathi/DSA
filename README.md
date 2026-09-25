@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ritikarathi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritikarathi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
+| [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikarathi/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikarathi/DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
+| [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ritikarathi/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/ritikarathi/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
+| [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ritikarathi/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
