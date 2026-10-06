@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritikarathi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikarathi/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/ritikarathi/DSA/tree/master/0639-decode-ways-ii) |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -360,4 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
