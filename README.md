@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/ritikarathi/DSA/tree/master/1462-course-schedule-iv) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/ritikarathi/DSA/tree/master/1462-course-schedule-iv) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Minimax
 |  |
@@ -365,10 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/ritikarathi/DSA/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
 |  |
 | ------- |
+| [1462-course-schedule-iv](https://github.com/ritikarathi/DSA/tree/master/1462-course-schedule-iv) |
 | [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
