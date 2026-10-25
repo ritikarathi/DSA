@@ -1,51 +1,33 @@
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int maxlen=1, maxlen2=1;
-        int start=0, start2=0;
-        for(int i=0; i<s.size();i++){
-           if(i>0){
-            int low= i-1, high =i+1; 
-            
-            while(low>=0 && high<s.size() && s[low]==s[high]){
-                low--;
-                high++;
-            }
-            if(high-low-1>maxlen){
-                maxlen = high-low-1;
-                start=low+1;
-            }
-           }
+    bool isPalindrome(int i, int j, string&s, vector<vector<int>>&dp){
+        if(i>=j){
+            return true;
         }
-
-        for(int i=0; i<s.size(); i++){
-            if(i + 1 < s.size() && s[i]==s[i+1] ){
-                int high =i+1;
-                int low=i;
-               while(low>=0 && high<s.size() && s[low]==s[high] ){
-                low--;
-                high++;
-                }
-                if(high-low-1 >maxlen2){
-                maxlen2 = high-low-1;
-                start2=low+1;
-                }
-            }
-            
+        if(dp[i][j]!=-1){
+            return dp[i][j];
         }
-        int mainlen =0, mainstart=0;
-        if(maxlen>maxlen2){
-            mainlen =maxlen;
-            mainstart=start;
+        if(s[i]!=s[j]){
+            return false;
         }
-        else{
-            mainlen=maxlen2;
-            mainstart=start2;
-        }
-        return s.substr(mainstart, mainlen);
-        
-
+        return dp[i][j]=isPalindrome(i+1,j-1,s,dp);
     }
-
-    
+    string longestPalindrome(string s) {
+        vector<vector<int>>dp(s.size(),vector<int>(s.size(),-1));
+        int maxlen=0;
+        int idx=0;
+        for(int i=0;i<s.size();i++){
+            for(int j=i;j<s.size();j++){
+                int len=0;
+                if(isPalindrome(i,j,s,dp)){
+                    len=j-i+1;
+                }
+                if(len>maxlen){
+                    maxlen=len;
+                    idx=i;
+                }
+            }
+        }
+        return s.substr(idx,maxlen);
+    }
 };
