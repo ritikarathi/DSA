@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ritikarathi/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ritikarathi/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ritikarathi/DSA/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ritikarathi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0394-decode-string](https://github.com/ritikarathi/DSA/tree/master/0394-decode-string) |
 | [0639-decode-ways-ii](https://github.com/ritikarathi/DSA/tree/master/0639-decode-ways-ii) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ritikarathi/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ritikarathi/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ritikarathi/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ritikarathi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/ritikarathi/DSA/tree/master/0338-counting-bits) |
