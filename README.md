@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ritikarathi/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ritikarathi/DSA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ritikarathi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikarathi/DSA/tree/master/0064-minimum-path-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ritikarathi/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ritikarathi/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ritikarathi/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ritikarathi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikarathi/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ritikarathi/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ritikarathi/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ritikarathi/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 ## Database
