@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ritikarathi/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikarathi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ritikarathi/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ritikarathi/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ritikarathi/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ritikarathi/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ritikarathi/DSA/tree/master/0455-assign-cookies) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/ritikarathi/DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ritikarathi/DSA/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/ritikarathi/DSA/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/ritikarathi/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/ritikarathi/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0639-decode-ways-ii](https://github.com/ritikarathi/DSA/tree/master/0639-decode-ways-ii) |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikarathi/DSA/tree/master/0005-longest-palindromic-substring) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ritikarathi/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
