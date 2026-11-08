@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ritikarathi/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikarathi/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ritikarathi/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ritikarathi/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritikarathi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1598-crawler-log-folder](https://github.com/ritikarathi/DSA/tree/master/1598-crawler-log-folder) |
 | [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 | [2104-sum-of-subarray-ranges](https://github.com/ritikarathi/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ritikarathi/DSA/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ritikarathi/DSA/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ritikarathi/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Doubly-Linked List
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ritikarathi/DSA/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
 | [1710-maximum-units-on-a-truck](https://github.com/ritikarathi/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ritikarathi/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/ritikarathi/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ritikarathi/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0639-decode-ways-ii](https://github.com/ritikarathi/DSA/tree/master/0639-decode-ways-ii) |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
 ## Memoization
 |  |
