@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ritikarathi/DSA/tree/master/0853-car-fleet) |
 | [0860-lemonade-change](https://github.com/ritikarathi/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/ritikarathi/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ritikarathi/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ritikarathi/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ritikarathi/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0639-decode-ways-ii](https://github.com/ritikarathi/DSA/tree/master/0639-decode-ways-ii) |
 | [0877-stone-game](https://github.com/ritikarathi/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/ritikarathi/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ritikarathi/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2008-maximum-earnings-from-taxi](https://github.com/ritikarathi/DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2050-parallel-courses-iii](https://github.com/ritikarathi/DSA/tree/master/2050-parallel-courses-iii) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ritikarathi/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ritikarathi/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ritikarathi/DSA/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/ritikarathi/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/ritikarathi/DSA/tree/master/0994-rotting-oranges) |
 ## Database
 |  |
